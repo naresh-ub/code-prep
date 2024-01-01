@@ -4,7 +4,14 @@
 
 My modified version of jwasham's coding-interview-university. I removed a lot of content that I felt unnecessary just to focus on the content and start preparing.
 
-Check my progress [here](my-progress.md)
+## Progress
+
+- [x] Format coding-interview-university repo and remove unnecessary text.
+- [ ] Create a csv sheet to keep track of spaced repitition.
+
+### Arrays:
+- [ ] Complete arrays section in both this repo and the DSA book.
+
 
 ## Table of Contents
 
