@@ -4,6 +4,8 @@
 
 My modified version of jwasham's coding-interview-university. I removed a lot of content that I felt unnecessary just to focus on the content and start preparing.
 
+Check my progress [here](my-progress.md)
+
 ## Table of Contents
 
 - [Actual content starts here:](#actual-content-starts-here)
