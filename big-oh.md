@@ -40,4 +40,29 @@ Example: $O(n^3)+O(n)+100$ can be boiled down to $O(n^3)$.
 - $O(n)$ -> linear search.
 - $O(n^2)$ -> bubble sort.
 
+## Notes from profbillbyrne
+
+Consider $f(n) = 4n^2 + 16n + 2$ and $g(n) = n^4$. We are trying to find a constant $C$ to check if $f(n) \leq C \cdot g(n)$
+
+if $C$ = 1, the inequality $f(n) \leq C \cdot g(n)$ is true for all values $> 4$. ($n_0 = 4$).
+
+$$ f(n) \text{ is } \Omega(g(n)) \text{ if } C \text{ and } n_0;\\
+f(n) \geq C \cdot g(n) \enspace \forall \enspace n > n_0$$
+
+
+$$ f(n) \text{ is } \Theta(g(n)) \text{ iff } \\
+
+\begin{itemize}
+\item f(n) = O(g(n)) \text{ and } \\
+\item f(n) = \Omega(g(n))
+\end{itemize}
+$$
+
+
+
+
+
+
+
+
 
